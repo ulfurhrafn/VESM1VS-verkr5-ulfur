@@ -46,7 +46,8 @@ void loop() {
   }
 }
 ```
-[Sweep forritið í gangi](https://github.com/ulfurhrafn/VESM1VS-verkr5-ulfur/blob/main/Servo%20Sweep.mp4)
+
+![Sweep forritið í gangi](https://github.com/ulfurhrafn/VESM1VS-verkr5-ulfur/blob/main/Servo%20Sweep.mp4)
 ~~~
 
 #5,6
